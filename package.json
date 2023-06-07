@@ -40,6 +40,9 @@
     "watch-node": "node tasks.mjs watch-node",
     "watch-ts": "node tasks.mjs watch-ts"
   },
+  "dependencies": {
+    "fp-ts": "2.15.0"
+  },
   "devDependencies": {
     "@tsconfig/node18": "2.0.1",
     "@types/node": "18.16.8",

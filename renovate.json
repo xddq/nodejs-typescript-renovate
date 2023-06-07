@@ -11,6 +11,10 @@
     {
       "matchUpdateTypes": ["major"],
       "dependencyDashboardApproval": true
+    },
+    {
+      "matchPackagePatterns": ["eslint"],
+      "groupName": "eslint"
     }
   ]
 }

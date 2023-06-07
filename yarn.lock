@@ -289,6 +289,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@sinclair/typebox@npm:0.28.11":
+  version: 0.28.11
+  resolution: "@sinclair/typebox@npm:0.28.11"
+  checksum: d6c5af6665668a941099f8587a0e325e5698d01691ea8421b716d4aabc2ed6f0cd68f7624e7e38b4d0c46feaeb34b4f6b29ff9663b394e51f5fa68f8c99f276a
+  languageName: node
+  linkType: hard
+
 "@tootallnate/once@npm:2":
   version: 2.0.0
   resolution: "@tootallnate/once@npm:2.0.0"
@@ -1886,6 +1893,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "nodejs-typescript-modern-starter@workspace:."
   dependencies:
+    "@sinclair/typebox": 0.28.11
     "@tsconfig/node18": 2.0.1
     "@types/node": 18.16.16
     "@types/nodemon": 1.19.2

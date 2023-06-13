@@ -41,7 +41,7 @@
     "watch-ts": "node tasks.mjs watch-ts"
   },
   "dependencies": {
-    "fp-ts": "2.15.0"
+    "fp-ts": "2.16.0"
   },
   "devDependencies": {
     "@sinclair/typebox": "0.28.11",

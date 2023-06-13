@@ -44,7 +44,7 @@
     "fp-ts": "2.15.0"
   },
   "devDependencies": {
-    "@sinclair/typebox": "0.28.11",
+    "@sinclair/typebox": "0.28.15",
     "@tsconfig/node18": "2.0.1",
     "@types/node": "18.16.18",
     "@types/nodemon": "1.19.2",

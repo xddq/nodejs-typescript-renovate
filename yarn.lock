@@ -289,10 +289,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@sinclair/typebox@npm:0.28.11":
-  version: 0.28.11
-  resolution: "@sinclair/typebox@npm:0.28.11"
-  checksum: d6c5af6665668a941099f8587a0e325e5698d01691ea8421b716d4aabc2ed6f0cd68f7624e7e38b4d0c46feaeb34b4f6b29ff9663b394e51f5fa68f8c99f276a
+"@sinclair/typebox@npm:0.28.15":
+  version: 0.28.15
+  resolution: "@sinclair/typebox@npm:0.28.15"
+  checksum: 0645255e5647d06905bcddac80f9843e83f8c69ba63e085c2860c97442f65e7cc307d3dcf22bd5487a8fcd74cb37e8d7f92fc5653a5b346aa9d15858a1c0175b
   languageName: node
   linkType: hard
 
@@ -1893,7 +1893,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "nodejs-typescript-modern-starter@workspace:."
   dependencies:
-    "@sinclair/typebox": 0.28.11
+    "@sinclair/typebox": 0.28.15
     "@tsconfig/node18": 2.0.1
     "@types/node": 18.16.18
     "@types/nodemon": 1.19.2
